@@ -1,6 +1,6 @@
 #' Calculate Mean of a Numeric Vector
 #'
-#' This function calculates the mean of a numeric vector.
+#' This function calculates the mean of a numeric vector. Simon edited this.
 #'
 #' @param data A numeric vector.
 #' @return The mean of the input data.
