@@ -13,7 +13,7 @@ calculate_mean(data)
 The mean of the input data.
 }
 \description{
-This function calculates the mean of a numeric vector.
+This function calculates the mean of a numeric vector. Simon edited this.
 }
 \examples{
 calculate_mean(c(1, 2, 3, 4, 5))
